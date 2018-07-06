@@ -1,0 +1,35 @@
+#Successful Tests
+#Fri Jul 06 15:40:03 ICT 2018
+extra.IBeforeESpec=1530866403316
+RetryTest=1530849136106
+QueueTest=1530849135967
+exercise.DoubleComparatorTest=1530866403067
+VectorManagerTest=1530849136106
+exercise.MedianTest=1530866403071
+TimeItTest=1530849136029
+extra.DiceSpec=1530866403067
+exercise.VectorManagerTest=1530866403087
+DiceSpec=1530849136110
+IBeforeESpec=1530849136293
+exercise.QueueTest=1530866403009
+exercise.RetryTest=1530866403008
+StringManagerTest=1530849135966
+exercise.StringManagerTest=1530866403009
+StringToCharTest=1530849136029
+TallySpec=1530849136287
+FilterMultiplyTest=1530849136022
+exercise.TimeItTest=1530866403306
+ReturnNotNoneTest=1530849135967
+exercise.StringToCharTest=1530866403065
+exercise.SquareTest=1530866403008
+MedianTest=1530849135966
+DoubleComparatorTest=1530849136106
+SetTest=1530849135967
+extra.TallySpec=1530866403311
+exercise.FilterMultiplyTest=1530866403087
+exercise.SetTest=1530866403009
+GcdTest=1530849135967
+SquareTest=1530849135966
+exercise.GcdTest=1530866403009
+exercise.ReturnNotNoneTest=1530866403009
+exercise.TreeTest=1530866403307

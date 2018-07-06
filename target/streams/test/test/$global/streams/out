@@ -1,0 +1,40 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.QueueTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.SetTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.RetryTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.StringManagerTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.SquareTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.GcdTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(extra.DiceSpec, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.ReturnNotNoneTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(extra.TallySpec, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.StringToCharTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.DoubleComparatorTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.VectorManagerTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.FilterMultiplyTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.MedianTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(extra.IBeforeESpec, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.TimeItTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(exercise.TreeTest, org.scalatest.tools.Framework$$anon$1@3fe9d87a, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 549 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 17, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.StringToCharTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	extra.DiceSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	extra.IBeforeESpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.SetTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.DoubleComparatorTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.VectorManagerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	extra.TallySpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.ReturnNotNoneTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.FilterMultiplyTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.MedianTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.SquareTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.StringManagerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.TimeItTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.RetryTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.TreeTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.GcdTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	exercise.QueueTest[0m

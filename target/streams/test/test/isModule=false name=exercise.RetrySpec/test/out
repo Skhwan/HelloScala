@@ -1,0 +1,28 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mRetrySpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mretry[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- automatically retry 3 times its erratic enclosed expression block *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.Exception:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at exercise.RetrySpec.$anonfun$new$3(RetryTest.scala:16)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.util.Try$.apply(Try.scala:209)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at exercise.Retry.Retry$.retry(Retry.scala:7)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at exercise.RetrySpec.$anonfun$new$2(RetryTest.scala:14)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.FunSpecLike$$anon$1.apply(FunSpecLike.scala:454)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- has a custom option for customizing sleep and times *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.Exception:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at exercise.RetrySpec.$anonfun$new$5(RetryTest.scala:27)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.util.Try$.apply(Try.scala:209)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at exercise.Retry.Retry$.retry(Retry.scala:7)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at exercise.RetrySpec.$anonfun$new$4(RetryTest.scala:25)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.FunSpecLike$$anon$1.apply(FunSpecLike.scala:454)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m

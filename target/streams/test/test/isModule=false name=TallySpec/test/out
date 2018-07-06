@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTallySpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSumScore[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should compute score correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should still works fine with different input[0m[0m

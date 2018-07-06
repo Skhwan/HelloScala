@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mIBeforeESpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCheckIe[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return true if input doesn't contain any 'ie' or 'ei'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return true if input contains 'ei' that follows 'c'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return true if input contains 'ie' that doesn't follow 'c'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return false if input contains 'ei' that doesn't follow 'c'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return false if input contains 'ie' that follows 'c'[0m[0m

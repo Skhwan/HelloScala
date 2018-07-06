@@ -1,0 +1,37 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ksrimool/IdeaProjects/HelloScala2/src/test/scala/exercise/DoubleComparatorTest.scala:10:14: ambiguous implicit values:[0m
+[0m[[0m[31merror[0m] [0m[0m both value precision in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m and value precision2 in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m match expected type exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m  assert(1.5 ~= 1.45)     // 0.05[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ksrimool/IdeaProjects/HelloScala2/src/test/scala/exercise/DoubleComparatorTest.scala:11:16: ambiguous implicit values:[0m
+[0m[[0m[31merror[0m] [0m[0m both value precision in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m and value precision2 in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m match expected type exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m  assert(!(1.5 ~= 1.4))   // 0.1[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ksrimool/IdeaProjects/HelloScala2/src/test/scala/exercise/DoubleComparatorTest.scala:12:16: ambiguous implicit values:[0m
+[0m[[0m[31merror[0m] [0m[0m both value precision in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m and value precision2 in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m match expected type exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m  assert(!(1.5 ~= 1.35))  // 0.15[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ksrimool/IdeaProjects/HelloScala2/src/test/scala/exercise/DoubleComparatorTest.scala:15:16: ambiguous implicit values:[0m
+[0m[[0m[31merror[0m] [0m[0m both value precision in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m and value precision2 in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m match expected type exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m  assert(1.155 ~= 1.15)   // 0.005[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ksrimool/IdeaProjects/HelloScala2/src/test/scala/exercise/DoubleComparatorTest.scala:16:17: ambiguous implicit values:[0m
+[0m[[0m[31merror[0m] [0m[0m both value precision in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m and value precision2 in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m match expected type exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m  assert(!(1.15 ~= 1.14)) // 0.01[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ksrimool/IdeaProjects/HelloScala2/src/test/scala/exercise/DoubleComparatorTest.scala:17:16: ambiguous implicit values:[0m
+[0m[[0m[31merror[0m] [0m[0m both value precision in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m and value precision2 in class DoubleComparatorTest of type => exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m match expected type exercise.Comparison.DoublePrecision[0m
+[0m[[0m[31merror[0m] [0m[0m  assert(!(1.5 ~= 1.45))  // 0.05[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
